@@ -1,0 +1,29 @@
+/* add your CSS here */
+* {
+	 box-sizing: border-box;
+}
+p {text-align:center;}
+
+.container {
+	 width: 320px;
+	 border: 1px solid green;
+	 padding: 0px 11px 10px 9px;
+	 box-shadow: 5px 5px 0px 0px rgba(0,0,255,.2);
+}
+
+.container img {
+	 width: 300px;
+	 border: 1px solid green;
+}
+
+ul {
+	 list-style-type: none;
+}
+
+.information {
+	 margin: 10px 0px 0px 0px;
+	 border: 1px solid green;
+	 border-radius: 15px;
+	 padding: 0px 10px 0px;
+	 background-color: ;
+}
